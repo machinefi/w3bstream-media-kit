@@ -1,1 +1,1 @@
-# w3bstream-media-kit
+# W3bstream Media Kit and Graphics Pack
